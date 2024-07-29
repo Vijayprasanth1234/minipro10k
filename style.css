@@ -438,6 +438,9 @@ color: white;
 
 
 
+
+
+
 @media screen and (min-width:320px) and (max-width:480px) {
 .maincontainer{
     width: 440vw;
@@ -451,5 +454,172 @@ color: white;
 .container7{
     width: 440vw;
 }
+.container5{
+    width: 420vw;
 }
+.container{
+    text-align: center;
+    width: 90%;
+    padding-left: 10%;
+    z-index: 1; 
+    padding-top: 15vw;
+   
+}
+.container2{
+    /* display: flex; */
+    width: 90%;
+    margin-left: 2%;
+    z-index: 1; 
+    font-size: 60px;
+ }
+ .butto{
+    margin-top: 5%;
+    height: 8vh;
+    width: 70vw;
+    font-size: 5vh;
+    background-color: transparent;
+    
+ }
+
+ .container3{
+    /* display: flex; */
+    width: 85%;
+    font-size: 60px;
+   
+ }
+ .butto1{
+    
+    margin-top: 2%;
+    height: 8vh;
+    width: 70vw;
+    font-size: 5vh;
+    background-color: transparent;  
+ }
+ .butto2{
+    margin-top: 5%;
+    height: 8vh;
+    width: 10vw;
+    font-size: 3vh;
+    /* background:rgba(255,255,255,0.10); */   
+ }
+
+ }
+ .butto2{
+    background: linear-gradient(90deg,#ff6708,#50e3fc,#bc13fe,#03a9f4,#0ff0fc);
+    background-size: 500%;
+    /* z-index: 1; */
+    animation: blink 5s linear infinite;
+    width: 120vw;
+    font-size: 60px;  
+ }
+.img4{
+   padding-left: 10vw;
+   width: 150vw;
+}
+.img5{
+  border-radius: 10%;    
+}
+.img1{
+    width: 150vh;
+}
+
+
+
+
+
+
+
+
+
+.subcontainer41{
+    display: grid;
+    grid-template-rows: 300px 300px 300px 300px;
+    grid-template-columns: 700px ;
+    gap: 15px;
+    justify-content: center;
+    font-size: 30px;
+   
+}
+
+
+
+
+.container5{
+    text-align: center;
+    margin-top: 0vh;
+    font-size: 50px;
+}
+
+
+
+.container6{
+    display: grid;
+    grid-template-rows: 300px 300px 300px 300px 300px 300px;
+    grid-template-columns: 300px ;
+   column-gap: 285px;
+   row-gap: 805px;
+    justify-content: center;
+   padding-right: 323vw;
+   padding-top: 140vw;
+   background-image: url(./back.webp);
+   background-size: cover;
+   height: 720vh;
+
+}
+.inner1{
+    width: 350vw;
+    height: 100vh;
+}
+
+.inner1{
+    border-radius: 80px;
+}
+ 
+.container7{
+    text-align: center;
+    color: white;
+    padding-top: 20vh;
+    background-image: url(./page-bg.jpg);
+    background-size: cover;
+    font-size: 50px;
+}
+
+
+.inp{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    color: white;
+    
+   
+    
+}
+.inp3{
+    width: 40vw;
+    background-color: transparent;
+    color: white;
+}
+.inp4{
+width: 40vw;
+background-color: transparent;
+color: white;
+}
+.inp5{
+    width: 90vw;
+    background-color: transparent;
+    color: white;
+}
+.te{
+    width: 90vw;
+    height: 30vh;
+    background-color: transparent;
+    color: white;
+}
+
+
+
+
+
+
+
 
