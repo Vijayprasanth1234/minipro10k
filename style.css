@@ -559,7 +559,7 @@ color: white;
     grid-template-rows: 300px 300px 300px 300px 300px 300px;
     grid-template-columns: 300px ;
    column-gap: 285px;
-   row-gap: 805px;
+   row-gap: 795px;
     justify-content: center;
    padding-right: 323vw;
    padding-top: 140vw;
@@ -580,7 +580,7 @@ color: white;
 .container7{
     text-align: center;
     color: white;
-    padding-top: 20vh;
+    padding-top: 120vh;
     background-image: url(./page-bg.jpg);
     background-size: cover;
     font-size: 50px;
@@ -597,25 +597,32 @@ color: white;
     
 }
 .inp3{
-    width: 40vw;
+    width: 190vw;
+    height: 10vh;
     background-color: transparent;
     color: white;
+    border: 1px solid white;
 }
 .inp4{
-width: 40vw;
+    width: 190vw;
+    height: 10vh;
 background-color: transparent;
 color: white;
+border: 1px solid white;
 }
 .inp5{
-    width: 90vw;
+    width: 190vw;
+    height: 10vh;
     background-color: transparent;
     color: white;
+    border: 1px solid white;
 }
 .te{
-    width: 90vw;
+    width: 190vw;
     height: 30vh;
     background-color: transparent;
     color: white;
+    border: 1px solid white;
 }
 
 }
