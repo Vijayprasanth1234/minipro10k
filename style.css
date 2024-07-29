@@ -447,6 +447,7 @@ color: white;
 }
 .container4{
     width: 440vw;
+    height: 340vh;
 }
 .container6{
     width: 440vw;
@@ -564,7 +565,7 @@ color: white;
    padding-top: 140vw;
    background-image: url(./back.webp);
    background-size: cover;
-   height: 720vh;
+   height: 780vh;
 
 }
 .inner1{
