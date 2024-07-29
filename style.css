@@ -441,7 +441,7 @@ color: white;
 
 
 
-@media screen and (min-width:320px) and (max-width:680px) {
+@media screen and (min-width:0px) and (max-width:680px) {
 .maincontainer{
     width: 440vw;
 }
