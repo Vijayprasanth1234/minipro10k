@@ -462,7 +462,8 @@ color: white;
     width: 90%;
     padding-left: 10%;
     z-index: 1; 
-    padding-top: 15vw;
+    padding-top: 45vw;
+    font-size: 60px;
    
 }
 .container2{
@@ -503,13 +504,13 @@ color: white;
     /* background:rgba(255,255,255,0.10); */   
  }
 
- }
+ 
  .butto2{
     background: linear-gradient(90deg,#ff6708,#50e3fc,#bc13fe,#03a9f4,#0ff0fc);
     background-size: 500%;
     /* z-index: 1; */
     animation: blink 5s linear infinite;
-    width: 120vw;
+    width: 150vw;
     font-size: 60px;  
  }
 .img4{
@@ -616,7 +617,7 @@ color: white;
     color: white;
 }
 
-
+}
 
 
 
