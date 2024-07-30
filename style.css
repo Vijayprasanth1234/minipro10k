@@ -591,6 +591,7 @@ color: white;
     background-image: url(./page-bg.jpg);
     background-size: cover;
     font-size: 50px;
+    padding-top: 1px;
 }
 
 
