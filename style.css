@@ -463,9 +463,15 @@ color: white;
     width: 90%;
     padding-left: 10%;
     z-index: 1; 
-    padding-top: 45vw;
+    padding-top: 55vw;
     font-size: 60px;
    
+}
+.nav1,.nav2,.nav3,.nav4{
+    font-size: 50px;
+}
+.main{
+    font-size: 80px;
 }
 .container2{
     /* display: flex; */
@@ -502,6 +508,7 @@ color: white;
     height: 8vh;
     width: 10vw;
     font-size: 3vh;
+    padding-bottom: 110px;
     /* background:rgba(255,255,255,0.10); */   
  }
 
@@ -536,7 +543,7 @@ color: white;
 .subcontainer41{
     display: grid;
     grid-template-rows: 300px 300px 300px 300px;
-    grid-template-columns: 700px ;
+    grid-template-columns: 1700px ;
     gap: 15px;
     justify-content: center;
     font-size: 30px;
@@ -624,7 +631,34 @@ border: 1px solid white;
     color: white;
     border: 1px solid white;
 }
+.pic1{
+    background-color: transparent;
+    box-shadow: 0 0 1em black;
+    padding-top: 1%;
+    font-size: 55px;
 
+}
+.pic2{
+    background-color: transparent;
+    box-shadow: 0 0 1em black;
+    padding-top: 1%;
+    font-size: 45px;
+
+    
+
+}
+.pic3{
+    background-color: transparent;
+    box-shadow: 0 0 1em black;
+    padding-top: 1%;
+    font-size: 45px;
+}
+.pic4{
+    background-color: transparent;
+    box-shadow: 0 0 1em black;
+    padding-top: 1%;
+    font-size: 45px;
+}
 }
 
 
