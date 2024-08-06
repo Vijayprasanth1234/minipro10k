@@ -8,9 +8,11 @@
 
 
 }
+
 .maincontainer{
     background-image: url(./3d-scan-css-animated-background.jpg);
     background-size: cover;
+    
    
 }
 
@@ -23,7 +25,7 @@
 .main{
     text-decoration: none;
     font-size: 300%;
-    background-image: linear-gradient(43deg,#4158D0 0%,hsl(0, 78%, 50%) 46%,#FFCC70);
+    background-image: linear-gradient(43deg,yellow 40%,hsl(110, 92%, 45%) 26%,white);
     -webkit-background-clip: text;
     color: transparent;   
     float: left;     
@@ -384,17 +386,7 @@ a{
 .inner1{
     border-radius: 80px;
 }
-
-
-
-
-
-
-
-
-
- 
-.container7{
+ .container7{
     text-align: center;
     color: white;
     padding-top: 20vh;
@@ -404,13 +396,10 @@ a{
 
 
 .inp{
-    display: flex;
+    /* display: flex;
     gap: 10px;
-    justify-content: center;
-    color: white;
-    
-   
-    
+    justify-content: center; */
+    color: white;    
 }
 .inp3{
     width: 40vw;
@@ -428,10 +417,23 @@ color: white;
     color: white;
 }
 .te{
-    width: 90vw;
+    width: 70vw;
     height: 30vh;
     background-color: transparent;
     color: white;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.container9{
+    margin-top: 7px;
+    background-color: black;
+    color: white;
+}
+.vit{
+    border-radius: 20px;
 }
 
 
